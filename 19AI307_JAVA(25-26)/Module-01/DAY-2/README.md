@@ -28,8 +28,8 @@ To write a Java program that reads a DNA number and uses nested conditional stat
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Pranavesh Saikumar
+RegisterNumber: 212223040149
 */
 ```
 
@@ -62,3 +62,4 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program to classify DNA numbers using conditional statements was successfully executed and the output was verified.
+
