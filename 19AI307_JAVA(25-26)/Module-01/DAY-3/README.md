@@ -26,8 +26,8 @@ To write a Java program that reads an integer from the user and uses a while loo
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Pranavesh Saikumar
+RegisterNumber: 212223040149
 */
 ```
 
@@ -55,3 +55,4 @@ public class ReverseNumber {
 
 ## RESULT:
 Thus, the Java program to reverse a number using a while loop was successfully executed and the output was verified.
+
